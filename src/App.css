@@ -9,8 +9,9 @@
   background-image: url('./sea.jpg');
   background-repeat: none;
   background-size: cover;
-  background-position: center;
+  background-position: top;
   background-attachment: fixed;
+
 }
 /* .App{
   background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%)
