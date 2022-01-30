@@ -1,0 +1,33 @@
+.navigation {
+
+    background-color: black;
+    display: flex;
+    justify-content: relative;
+    position: fixed;
+    z-index: 999;
+    top: 0px;
+    
+}
+
+.h2{
+    
+    padding: 1rem;
+    margin: auto;
+}
+
+.navigation a {
+text-decoration: none;
+color: white;
+padding: 24px 46px;
+font-size: 1.5rem;
+font-family: 'Amatic SC', cursive;
+}
+a:hover {
+    background-color: #ace0f9;
+    color: black;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+}

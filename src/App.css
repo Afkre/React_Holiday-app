@@ -1,4 +1,22 @@
-.App {
+*{
+  margin: 0;
+  padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+.App{
+  text-align: center;
+  background-image: url('./sea.jpg');
+  background-repeat: none;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+/* .App{
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%)
+} */
+
+/* .App {
   text-align: center;
 }
 
@@ -30,9 +48,9 @@
 
 @keyframes App-logo-spin {
   from {
-    transform: rotate(0deg);
+    transform: rotate(0deg); 
   }
   to {
     transform: rotate(360deg);
   }
-}
+} */
