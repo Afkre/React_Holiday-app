@@ -10,7 +10,7 @@ function Navigation() {
             <a href='services'>SERVİCES</a>
             <a href='blog'>BLOG</a>
             <a href='vlog'>VLOG</a>
-            <a href='contag'>CONTAG</a>
+            <a href='contag'>CONTACT</a>
         </div>
     )
 }
