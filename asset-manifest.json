@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/holiday-app/static/css/main.1c4b2c6c.css",
-    "main.js": "/holiday-app/static/js/main.5528bfcb.js",
-    "static/js/787.e6324594.chunk.js": "/holiday-app/static/js/787.e6324594.chunk.js",
-    "static/media/sea.jpg": "/holiday-app/static/media/sea.494872a331029d00dcfb.jpg",
-    "static/media/logo.svg": "/holiday-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/holiday-app/index.html",
-    "main.1c4b2c6c.css.map": "/holiday-app/static/css/main.1c4b2c6c.css.map",
-    "main.5528bfcb.js.map": "/holiday-app/static/js/main.5528bfcb.js.map",
-    "787.e6324594.chunk.js.map": "/holiday-app/static/js/787.e6324594.chunk.js.map"
+    "main.css": "/React_Holiday-app/static/css/main.9ec9506c.css",
+    "main.js": "/React_Holiday-app/static/js/main.4e6e12ba.js",
+    "static/js/787.e6324594.chunk.js": "/React_Holiday-app/static/js/787.e6324594.chunk.js",
+    "static/media/sea.jpg": "/React_Holiday-app/static/media/sea.494872a331029d00dcfb.jpg",
+    "static/media/logo.svg": "/React_Holiday-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React_Holiday-app/index.html",
+    "main.9ec9506c.css.map": "/React_Holiday-app/static/css/main.9ec9506c.css.map",
+    "main.4e6e12ba.js.map": "/React_Holiday-app/static/js/main.4e6e12ba.js.map",
+    "787.e6324594.chunk.js.map": "/React_Holiday-app/static/js/787.e6324594.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c4b2c6c.css",
-    "static/js/main.5528bfcb.js"
+    "static/css/main.9ec9506c.css",
+    "static/js/main.4e6e12ba.js"
   ]
 }
